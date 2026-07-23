@@ -2,8 +2,8 @@
 
 ASP.NET Core MVC application with role-based authentication and authorization using ASP.NET Core Identity.
 
-**Author:** Aroan Victor
-**GitHub:** https://github.com/aroaannn
+**Author:** Aditya Gupta
+**GitHub:** https://github.com/ADI10YOGII/student-reg-app
 
 ---
 
